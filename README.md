@@ -43,8 +43,7 @@ Feel Free to contact me at vyshakhsanil13@gmail.com for the weights required for
 ```bash
 streamlit run app.py
 ```
-
-                                                                                                                                                                          Project by VYSH131
+Project by vysh131
 
 
 
