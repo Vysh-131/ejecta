@@ -44,7 +44,7 @@ Feel Free to contact me at vyshakhsanil13@gmail.com for the weights required for
 streamlit run app.py
 ```
 
-### Project by VYSH131
+                                                                                                                                                                          Project by VYSH131
 
 
 
