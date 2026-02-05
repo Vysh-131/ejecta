@@ -1,0 +1,7 @@
+ultralytics
+streamlit
+opencv-python-headless
+pandas
+requests
+pillow
+numpy
